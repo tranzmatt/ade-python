@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.17.0 (2026-08-21)
+
+Full Changelog: [v1.16.0...v1.17.0](https://github.com/landing-ai/ade-python/compare/v1.16.0...v1.17.0)
+
+### Features
+
+* add V2 production e2e to the release gate (#143) ([b082920](https://github.com/landing-ai/ade-python/commit/b08292088aa3a5e782589a50e518c8635a8ed32f))
+* add V1 production e2e tests and release gate (#142) ([bda1f1d](https://github.com/landing-ai/ade-python/commit/bda1f1de3e63eaa205a46207765f9763091b815e))
+* **spec-sync:** concise PR overview, generated title, skip specs in Copilot review (#141) ([a6e9739](https://github.com/landing-ai/ade-python/commit/a6e97396faf2f49a934d25aa1489b8d799c0acf9))
+
+### Chores
+
+* **spec-sync:** update V2 spec snapshot + regenerated reference models (#140) ([fd4d9ba](https://github.com/landing-ai/ade-python/commit/fd4d9ba34c2104321f3397940828a7ff205e411e))
+
+### Other Changes
+
+* spec-sync(v2): parse: propagate confidence to all node grounding levels (#147) ([3e5a56a](https://github.com/landing-ai/ade-python/commit/3e5a56a82ceb7be169db6f62a0b1d321ba349f12))
+* spec-sync(v2): parse: add confidence to word-level atomic grounding (#145) ([ce4ace0](https://github.com/landing-ai/ade-python/commit/ce4ace052366a9b3c30c661313d5aedcec880a60))
+
 ## 1.16.0 (2026-08-04)
 
 Full Changelog: [v1.15.0...v1.16.0](https://github.com/landing-ai/ade-python/compare/v1.15.0...v1.16.0)
