@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.17.1 (2026-08-28)
+
+Full Changelog: [v1.17.0...v1.17.1](https://github.com/landing-ai/ade-python/compare/v1.17.0...v1.17.1)
+
+### Other Changes
+
+* spec-sync(v2): parse: rename dpt-3-fast to dpt-3-verity, narrow confidence scope (#151) ([87e5349](https://github.com/landing-ai/ade-python/commit/87e5349a5c14815b8d76aa30b0c63bc584cd9068))
+* spec-sync(v2): parse2 endpoints and 2-decimal confidence rounding (#149) ([70f2cb3](https://github.com/landing-ai/ade-python/commit/70f2cb334558c893c64042c71c408a85c93849ba))
+
 ## 1.17.0 (2026-08-21)
 
 Full Changelog: [v1.16.0...v1.17.0](https://github.com/landing-ai/ade-python/compare/v1.16.0...v1.17.0)
